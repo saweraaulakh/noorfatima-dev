@@ -1,2 +1,3 @@
 # noorfatima-dev
-personal portfolio
+Flower shop web page 
+Frontend
